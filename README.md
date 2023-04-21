@@ -23,5 +23,5 @@ Follow my github, so i'm even more excited to make more interesting programs - K
 
 Thanks
 
-Demo simple portfolio v1 (codepen.io) : https://codepen.io/rizal-rohman/pen/BaqpjLZ
+Demo simple portfolio v1 (codepen.io) : https://codepen.io/rizal-rohman/full/BaqpjLZ
 -
